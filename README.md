@@ -37,25 +37,25 @@
 
    ## Projects
 
-   ![Basic Python](/BasicProgrammingExercises/README.md)
+   - [Basic Python](/BasicProgrammingExercises/)
 
-   ![Create Libraries](/CreateLibraries/README.md)
+   - [Create Libraries](/CreateLibraries/)
 
-   ![Django](/Django/README.md)
+   - [Django](/Django/)
 
-   ![Samples](/examples/README.md)
+   - [Samples](/examples/)
 
-   ![Flask](/Flask/README.md)
+   - [Flask](/Flask/)
 
-   ![Modules](/ModulesPackages/README.md)
+   - [Modules](/ModulesPackages/)
 
-   ![Web Devs](/my_projectWeb/README.md)
+   - [Web Devs](/my_projectWeb/)
 
-   ![Sockets](/Sockets/README.md)
+   - [Sockets](/Sockets/)
 
-   ![Threats](/Threats/README.md)
-   
-   ![Tkinter](/Tkinter/README.md)
+   - [Threats](/Threats/)
+
+   - [Tkinter](/Tkinter/)
 
 
    ## Built With
