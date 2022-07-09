@@ -38,14 +38,23 @@
    ## Projects
 
    ![Basic Python](/BasicProgrammingExercises/README.md)
+
    ![Create Libraries](/CreateLibraries/README.md)
+
    ![Django](/Django/README.md)
+
    ![Samples](/examples/README.md)
+
    ![Flask](/Flask/README.md)
+
    ![Modules](/ModulesPackages/README.md)
+
    ![Web Devs](/my_projectWeb/README.md)
+
    ![Sockets](/Sockets/README.md)
+
    ![Threats](/Threats/README.md)
+   
    ![Tkinter](/Tkinter/README.md)
 
 
