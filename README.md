@@ -1,17 +1,16 @@
-  # PythonSamples
+  # Python Samples
   Shows different frameworks to work with Python.
 
   # Primeros pasos
 
   To create a virtual environment we can do it with Anaconda. However, it is more advisable to do it manually by activating VirtuaEnv. In this way we can manually install the packages that we need and avoid conflicting with any library. It is better to install them manually so that when generating the requirements file it only contains the libraries that we have been installing throughout the project.
-    --------------------------------------------
-    1- Crear el entorno virtual
+
+    - Crear el entorno virtual
 
         virtualenv <nombre>
         (Para Linux y Windows es el mismo comando)
-    ----------------------------------------------
 
-    2- Activar el entorno virtual
+    - Activar el entorno virtual
 
     	Windows
     		Nos posicionamos en la carpeta del proyecto
@@ -21,11 +20,10 @@
     		cd /env/Script/activate
     	Linux
     		source env/bin/activate    (deactivate)
-    ------------------------------------------------
 
-    3- Ahora necesitamos hacer un pip list para ver las librerias que tenemos instaladas. Deberian de aparecer solo algunas por defecto. Si lo hacemos con Anaconda aparecen muchas.
+    - Ahora necesitamos hacer un pip list para ver las librerias que tenemos instaladas. Deberian de aparecer solo algunas por defecto. Si lo hacemos con Anaconda aparecen muchas.
 
-	 pip list
+	   pip list
 
   ## Links
 
