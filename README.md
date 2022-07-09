@@ -5,11 +5,11 @@
 
   To create a virtual environment we can do it with Anaconda. However, it is more advisable to do it manually by activating VirtuaEnv. In this way we can manually install the packages that we need and avoid conflicting with any library. It is better to install them manually so that when generating the requirements file it only contains the libraries that we have been installing throughout the project.
 
-  - Crear el entorno virtual
+  - Create virtual environment
 
         virtualenv <nombre>
 
-  (Para Linux y Windows es el mismo comando)
+  (For Linux and Windows it´s the same command)
 
   - Activar el entorno virtual
 
@@ -32,6 +32,8 @@
 	  pip list
 
   ## Links
+
+  First Header | Second Header———— | ————-Content from cell 1 | Content from cell 2Content in the first column | Content in the second column
 
    - [Repo](https://github.com/mcespedesWK/PythonSamples)
 
