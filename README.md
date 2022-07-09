@@ -7,15 +7,15 @@
 
   - Create virtual environment
 
-    virtualenv <nombre>
+    virtualenv <name>
 
     - [x] For Linux and Windows it´s the same comman
 
-  - Activar el entorno virtual
+  - Activate  virtual environment
 
     ###### Windows
 
-      Nos posicionamos en la carpeta del proyecto
+      We position ourselves in the project folder
 
         .\env\Scripts\activate
 
@@ -35,9 +35,18 @@
 
    - [Repo](https://github.com/mcespedesWK/PythonSamples)
 
-   ## Screenshots
+   ## Projects
 
-   ![Home Page](/img/download.jfif)
+   ![Basic Python](/BasicProgrammingExercises/README.md)
+   ![Create Libraries](/CreateLibraries/README.md)
+   ![Django](/Django/README.md)
+   ![Samples](/examples/README.md)
+   ![Flask](/Flask/README.md)
+   ![Modules](/ModulesPackages/README.md)
+   ![Web Devs](/my_projectWeb/README.md)
+   ![Sockets](/Sockets/README.md)
+   ![Threats](/Threats/README.md)
+   ![Tkinter](/Tkinter/README.md)
 
 
    ## Built With
