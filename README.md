@@ -25,7 +25,7 @@
 
     ###### Linux
 
-    source env/bin/activate    (deactivate)
+      source env/bin/activate  
 
     - Now we need to do a pip list to see the libraries we have installed. Only a few should appear by default. If we do it with Anaconda many appear.
 
