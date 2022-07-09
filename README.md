@@ -19,7 +19,7 @@
 
         .\env\Scripts\activate
 
-        - [x] Another way is to browse the folders and activate
+      - [x] Another way is to browse the folders and activate
 
           cd /env/Script/activate
 
