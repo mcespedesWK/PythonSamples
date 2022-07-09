@@ -8,22 +8,25 @@
   - Crear el entorno virtual
 
         virtualenv <nombre>
-        (Para Linux y Windows es el mismo comando)
+
+  (Para Linux y Windows es el mismo comando)
 
   - Activar el entorno virtual
 
-    	Windows
-    		Nos posicionamos en la carpeta del proyecto
+  Windows
+  Nos posicionamos en la carpeta del proyecto
+
     		.\env\Scripts\activate   (deactivate)
 
-    		otra forma en navegar por las carpetas y activar
+  Otra forma en navegar por las carpetas y activar
+
     		cd /env/Script/activate
     	Linux
     		source env/bin/activate    (deactivate)
 
   - Ahora necesitamos hacer un pip list para ver las librerias que tenemos instaladas. Deberian de aparecer solo algunas por defecto. Si lo hacemos con Anaconda aparecen muchas.
 
-	   pip list
+	     pip list
 
   ## Links
 
