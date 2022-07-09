@@ -7,29 +7,29 @@
 
   - Create virtual environment
 
-        virtualenv <nombre>
+    virtualenv <nombre>
 
     - [x] For Linux and Windows it´s the same comman
 
   - Activar el entorno virtual
 
-  ###### Windows
+    ###### Windows
 
-  Nos posicionamos en la carpeta del proyecto
+      Nos posicionamos en la carpeta del proyecto
 
-    .\env\Scripts\activate
+        .\env\Scripts\activate
 
-  - [x] Otra forma en navegar por las carpetas y activar
+        - [x] Another way is to browse the folders and activate
 
-    cd /env/Script/activate
+          cd /env/Script/activate
 
-  ###### Linux
+    ###### Linux
 
     source env/bin/activate    (deactivate)
 
-  - Now we need to do a pip list to see the libraries we have installed. Only a few should appear by default. If we do it with Anaconda many appear.
+    - Now we need to do a pip list to see the libraries we have installed. Only a few should appear by default. If we do it with Anaconda many appear.
 
-	  pip list
+	   pip list
 
   ## Links
 
