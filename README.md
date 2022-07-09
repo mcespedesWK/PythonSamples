@@ -9,7 +9,7 @@
 
         virtualenv <nombre>
 
-  – [x] For Linux and Windows it´s the same command
+        – [x] For Linux and Windows it´s the same command
 
   - Activar el entorno virtual
 
@@ -19,7 +19,7 @@
 
     .\env\Scripts\activate
 
-  – [x] Otra forma en navegar por las carpetas y activar
+    – [x] Otra forma en navegar por las carpetas y activar
 
     cd /env/Script/activate
 
