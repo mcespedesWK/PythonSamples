@@ -1,7 +1,7 @@
   # Python Samples
   Shows different frameworks to work with Python.
 
-  ## Primeros pasos
+  ## First Steps
 
   To create a virtual environment we can do it with Anaconda. However, it is more advisable to do it manually by activating VirtuaEnv. In this way we can manually install the packages that we need and avoid conflicting with any library. It is better to install them manually so that when generating the requirements file it only contains the libraries that we have been installing throughout the project.
 
@@ -27,7 +27,7 @@
 
       source env/bin/activate  
 
-    - Now we need to do a pip list to see the libraries we have installed. Only a few should appear by default. If we do it with Anaconda many appear.
+    Now we need to do a pip list to see the libraries we have installed. Only a few should appear by default. If we do it with Anaconda many appear.
 
 	   pip list
 
