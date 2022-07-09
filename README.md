@@ -9,7 +9,7 @@
 
         virtualenv <nombre>
 
-        – [x] For Linux and Windows it´s the same command
+    - [x] For Linux and Windows it´s the same comman
 
   - Activar el entorno virtual
 
@@ -19,7 +19,7 @@
 
     .\env\Scripts\activate
 
-    – [x] Otra forma en navegar por las carpetas y activar
+  - [x] Otra forma en navegar por las carpetas y activar
 
     cd /env/Script/activate
 
@@ -27,13 +27,11 @@
 
     source env/bin/activate    (deactivate)
 
-  - Ahora necesitamos hacer un pip list para ver las librerias que tenemos instaladas. Deberian de aparecer solo algunas por defecto. Si lo hacemos con Anaconda aparecen muchas.
+  - Now we need to do a pip list to see the libraries we have installed. Only a few should appear by default. If we do it with Anaconda many appear.
 
 	  pip list
 
   ## Links
-
-    First Header | Second Header ----|----Content from cell 1 | Content from cell 2Content in the first column | Content in the second column
 
    - [Repo](https://github.com/mcespedesWK/PythonSamples)
 
