@@ -13,7 +13,7 @@
 
   - Activar el entorno virtual
 
-  ######Windows
+  ###### Windows
 
   Nos posicionamos en la carpeta del proyecto
 
@@ -23,7 +23,7 @@
 
     cd /env/Script/activate
 
-  ######Linux
+  ###### Linux
 
     source env/bin/activate    (deactivate)
 
